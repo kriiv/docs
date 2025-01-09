@@ -6,6 +6,7 @@
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
+  "openapi": "openapi.yaml",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -69,9 +70,10 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "API Reference",
       "pages": [
-        "api-reference/introduction"
+        "api-reference/scrape-a-webpage",
+        "api-reference/get-api-usage-metrics"
       ]
     },
     {
